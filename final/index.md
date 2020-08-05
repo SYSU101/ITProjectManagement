@@ -5,6 +5,7 @@
 
 ## 本人在团队中承担的职责
 接口设计，前端项目开发，项目测试，持续集成管理。
+前端仓库地址：https://github.com/NoManWorkingITPJMnage/sysurs-fe
 
 ## 选用的第三方依赖
 
